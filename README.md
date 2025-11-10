@@ -7,11 +7,11 @@
 <p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
+  <li>👋 Hi, I’m Daniel Hernandez</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Front end developer at Crediometer.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+ 
 </ul>
 
 #### A little more about me
@@ -28,15 +28,15 @@ const badri = {
 ```
 
 #### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
+> 🏆 3+ Contributions in the Year 2024
  > 
-> 📜 400+ Commits on GitHub
+> 
  > 
-> 🔑 200+ Contribution in Private Repos
+> 🔑 2+ Contribution in Private Repos
  > 
 
 #### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+<a href="****https://github.com/Danielhdz-julio/project-Urban-Grocers-app****">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
 </a>    
