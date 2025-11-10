@@ -35,14 +35,6 @@ const badri = {
 > 🔑 2+ Contribution in Private Repos
  > 
 
-#### Popular Projects
-<a href="****https://github.com/Danielhdz-julio/project-Urban-Grocers-app****">
-  <img align="center" src="https://github.com/Danielhdz-julio/project-Urban-Grocers-app" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
 
 #### Trophies
 
@@ -80,9 +72,9 @@ You can click the Preview link to take a look at your changes.
 #### I Spent My Time On
 ```text
 💬 Programming Lanuages:
-HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
+HTML                     3 hr 50 mins        ██████░░░░░░░░░░░░░░   26% 
 CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
+Python                   59 mins             ██████████████░░░░░░░░░░░   58% 
 GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
 
 🔥 Editors:
@@ -90,11 +82,10 @@ VS Code                  4 Hours            ████████████
 Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
 
 💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
+Windows             14 hrs 2 mins      █████████████████████████   100.0%
 ```
 ------
-Credit: [MrBlueBird2](https://github.com/MrBlueBird2)
-Last Edited on: 25/09/2021.
+
+Last Edited on: 10/11/2025
 ------
-Credits:[Kingsky1t](https://github.com/Kingsky1t)
-Last Edited:05/04/23
+
